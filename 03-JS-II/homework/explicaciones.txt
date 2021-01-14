@@ -1,0 +1,7 @@
+* `for`
+-------
+Explicación: Esta keyword está asociada a un concepto conocido como iteración. También se le conoce como bucle for. El bucle for crea una estructura que se repite la cantidad de veces que el programador indique en sus parámetros, su declaración consta de 3 partes, la declaración de una variable a manera de contador, la condición que debe cumplirse para que el bucle continúe su iteración y el incremento del contador declarado previamente. Cualquier operación que se coloque dentro del bucle for se repetirá la cantidad de veces que la condición lo permita.
+
+* `&&`, `||`, `!`
+-----------------
+Explicación: Conocidos como operadores lógicos nos permiten evaluar condiciones de manera compuesta, es decir juntar diferentes expresiones las cuales se evaluarán dependiendo de la aplicación de estos operadores lógicos.
