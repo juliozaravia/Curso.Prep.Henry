@@ -1,0 +1,21 @@
+* Variables
+-----------
+Explicación: Una variable es un contenedor que puede almacenar datos de diferentes tipos como cadenas de texto, numeros enteros, números de punto flotante, valores booleanos entre otros tipos que soporte el  lenguaje de programación elegido. Los datos almacenados dentro de una variable pueden ser sobre escritos, de ahí precisamente viene su nombre "variables" pues guardan contenido que puede ser cambiado constantemente.  
+
+* Strings
+---------
+Explicación: Conocidos como cadenas de texto, son agrupaciones de caracteres que pueden representar cualquier tipo de texto que guarde sentido o no. En un lenguaje de programación generalmente los string se representan como grupos de datos alfanuméricos contenidos dentro de comillas simples o dobles.
+
+* Funciones (argumentos, `return`)
+----------------------------------
+Explicación: Las funciones son agrupaciones de instrucciones de código fuente que realizan un procesamiento determinado y pueden o no retornar un valor. Generalmente y como buena práctica una función debería tener un único objetivo de procesamiento. 
+Para realizar este procesamiento puede hacer uso de data que recibe en sus argumentos, estos argumentos reciben y almacenan valores específicos que le servirán a la función para ejecutar su operación. 
+Una vez realizado el procesamiento la función tiene la capacidad de devolver el valor procesado o cualquier valor que se desee retornar haciendo uso del keyword 'return'.
+
+* Declaraciones `if`
+--------------------
+Explicación: La declaración 'if' es una expresión condicional que nos permite controlar el flujo de nuestro programa indicándole el 'camino' que debe seguir (que bloque de código ejecutar) según se cumpla la condición o no. De tal manera que se especifica una condición, el flujo del programa inicia y si la condición se cumple se ejecutará un bloque de código A, si la condición no se cumple, el bloque de código A no será ejecutado y en cambio se ejecutará un bloque de código B. Estas expresiones condicionales pueden anidarse de tal manera que podemos elegir entre diferentes bloques de código a ejecutar según la condición cumplida.
+
+* Valores booleanos (`true`, `false`)
+-------------------------------------
+Explicación: Un valor booleano es un tipo de dato que puede almacenar solo dos posibles valores: verdadero o falso. Esta restricción a solo dos valores hace que este tipo de datos sea el adecuado para trabajarse en conjunto con las expresiones condicionales de tal manera que resulta más sencillo poder definir si una condición se cumple o no, al asignarle el valor booleano.
