@@ -1,0 +1,3 @@
+* Arrays
+--------
+Explicación: Es un contenedor que permite almacenar no solo el valor de una variable sino de un conjunto de variables, en algunos lenguajes de programación los tipos de cada dato deben ser los mismos para poder ser almacenados en un array, sin embargo en JavaScript los datos pueden tener diferentes tipos.
